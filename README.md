@@ -1,4 +1,6 @@
-![screenshot](images/screenshot.png)
+![screenshot](images/Screenshot.png)
+*Figure: Example of the chess AI demo in action*
+
 
 # Simple Chess AI Demo
 
