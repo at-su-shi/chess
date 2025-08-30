@@ -1,0 +1,20 @@
+```gitignore
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual env / tools
+venv/
+.venv/
+.env/
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
+
+# Fonts or private assets (念のため)
+*.ttc
+*.ttf
+*.otf

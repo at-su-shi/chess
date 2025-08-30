@@ -9,15 +9,9 @@ It is designed for educational/demonstration purposes, not as a full-featured ch
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/at-su-shi/
+   ```bash
+   git clone https://github.com/at-su-shi/chess.git
    cd chess
-
-2. (Optional) Create a virtual environment:
-   python3 -m venv venv
-   source venv/bin/activate   # Windows: venv\Scripts\activate
-
-3. Install dependencies:
-   pip install -r requirements.txt
 
 
 ## Usage
