@@ -2,13 +2,16 @@
 *Figure: Example of the chess AI demo in action*
 
 
-# Simple Chess AI Demo
+## Simple Chess AI Demo
 
 This project is a simple **AI vs. AI chess demo** built with Python and Pygame.  
 The game automatically starts, and both sides are controlled by the computer using a basic **Minimax algorithm** with a simple evaluation function.  
 It is designed for educational/demonstration purposes, not as a full-featured chess engine.
 
----
+## Project Purpose
+This repository was created as a learning record to practice Python, Pygame, and basic AI (Minimax).
+It is not intended as a complete chess engine, but rather as a personal study project.
+
 
 ## Installation
 
