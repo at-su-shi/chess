@@ -60,10 +60,14 @@ chess/
 ├─ README.md
 └─ .gitignore
 
-
 ## License
 This project is released under the MIT License.
-Piece images in images/ are included under their respective licenses.
-No proprietary fonts are bundled; the game uses the default Pygame font.
 
+### Third-party assets
+- **Chess piece images**  
+  By jurgenwesterhof (adapted from work of Cburnett) –  
+  [Wikimedia Commons](http://commons.wikimedia.org/wiki/Template:SVG_chess_pieces),  
+  Licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
 
+- **Fonts**  
+  No proprietary fonts are bundled; the game uses the default Pygame font.
